@@ -31,7 +31,7 @@ public class Main {
 
 			switch (QuizCreator.getInt()) {
 
-				case 10 -> flag = QuizCreator.saveToFile("Question");
+				//case 10 -> flag = QuizCreator.saveToFile("Question");
 				case 1 -> QuizCreator.printQuestionArrL();
 				case 2 -> QuizCreator.addAnsToQuestion();
 				case 3 -> QuizCreator.addQuestionToTray();
