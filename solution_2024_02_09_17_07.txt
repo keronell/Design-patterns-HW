@@ -1,0 +1,69 @@
+Quiz:
+[1] Is it possible to work and study?
+Everything is possible if you believe in yourself
+
+
+[2] 2*2? ID: 10 
+1) 8 (false).
+2) Africa (false).
+3) -14 degree (false).
+4) C++ (false).
+5) There is more than one correct answer. (true).
+
+
+[3] What is the best language? ID: 2 
+1) Momo (false).
+2) C++ (false).
+3) 30 (false).
+4) -14 degree (false).
+5) There is more than one correct answer. (true).
+
+
+[4] 1+1? ID: 4 
+1) C++ (false).
+2) 9 (false).
+3) Chinese (false).
+4) 14 degree (false).
+5) There is more than one correct answer. (true).
+
+
+[5] 2/1? ID: 8 
+1) Toto (false).
+2) Africa (false).
+3) 9 (false).
+4) 2 (false).
+5) There is more than one correct answer. (true).
+
+
+[6] 2/2? ID: 7 
+1) 10 (false).
+2) C++ (false).
+3) C++ (false).
+4) 3 (false).
+5) There is more than one correct answer. (true).
+
+
+[7] Is it possible to work and study?
+Everything is possible if you believe in yourself
+
+
+[8] Best name? ID: 3 
+1) 8 (false).
+2) 30 (false).
+3) 10 (false).
+4) Momo (false).
+5) There is more than one correct answer. (true).
+
+
+[9] 2+1? ID: 5 
+1) Assemble (false).
+2) 8 (false).
+3) C++ (false).
+4) 1 (false).
+5) There is more than one correct answer. (true).
+
+
+[10] What is the color of the sun?
+White
+
+

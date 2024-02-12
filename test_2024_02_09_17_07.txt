@@ -1,0 +1,71 @@
+Quiz:
+Good Luck 
+
+[1] Is it possible to work and study? 12
+_______________________________
+
+
+[2] 2*2?: 
+1) 8.
+2) Africa.
+3) -14 degree.
+4) C++.
+5) There is more than one correct answer..
+
+
+[3] What is the best language?: 
+1) Momo.
+2) C++.
+3) 30.
+4) -14 degree.
+5) There is more than one correct answer..
+
+
+[4] 1+1?: 
+1) C++.
+2) 9.
+3) Chinese.
+4) 14 degree.
+5) There is more than one correct answer..
+
+
+[5] 2/1?: 
+1) Toto.
+2) Africa.
+3) 9.
+4) 2.
+5) There is more than one correct answer..
+
+
+[6] 2/2?: 
+1) 10.
+2) C++.
+3) C++.
+4) 3.
+5) There is more than one correct answer..
+
+
+[7] Is it possible to work and study? 12
+_______________________________
+
+
+[8] Best name?: 
+1) 8.
+2) 30.
+3) 10.
+4) Momo.
+5) There is more than one correct answer..
+
+
+[9] 2+1?: 
+1) Assemble.
+2) 8.
+3) C++.
+4) 1.
+5) There is more than one correct answer..
+
+
+[10] What is the color of the sun? 11
+_______________________________
+
+
